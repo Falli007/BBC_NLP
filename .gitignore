@@ -1,0 +1,10 @@
+.venv
+test_env
+ner
+.vscode
+data/business
+data/entertainment
+data/politics
+data/sport
+data/tech
+data/README.TXT
